@@ -30,10 +30,6 @@ Here's a walkthrough of implemented user stories:
 
 ![](https://i.imgur.com/JzeovOZ.gif)
 
-## Notes
-
-Pretty clueless on how the xcode environment works. Thus I struggled but am hoping to learn alot more. 
-
 ## License
 
     Copyright [2021] [Julio C Lopez]
